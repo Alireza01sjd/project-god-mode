@@ -1,0 +1,13 @@
+.git
+.github
+.vscode
+node_modules
+.next
+.env
+.env.local
+.env.development
+.env.test
+README.md
+LICENSE
+*.log
+.DS_Store 
